@@ -3,10 +3,15 @@
 This project analyzes global video game sales data using Power BI to uncover trends across platforms, genres, publishers, and regions.
 
 🔍 Key Insights
+
 Sales peaked around 2008–2010 due to console dominance
+
 North America contributes the highest share
+
 Action and Sports genres dominate
+
 Strong correlation between publisher output and total sales
+
 🛠 Tools Used
 Power BI
 DAX
